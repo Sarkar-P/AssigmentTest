@@ -1,4 +1,4 @@
-Assignment
+Assignment for running two websites to get details
 
 Run the Project using Commandline:
 1.In order to Run the project using cmd 
